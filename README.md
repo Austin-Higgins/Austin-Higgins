@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps, DevSecOps, GitOps.
 - 🌱 I’m currently learning to implement Infrastructure as Code. 
 - 💞️ I’m looking to collaborate on projects related to Infrastructure Automation.
-- 📫 How to reach me github@austin-higgins.com
+- 📫 How to reach me github@austin-higgins.com or @AustinHiggs on twitter.
 
 <!---
 Austin-Higgins/Austin-Higgins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
