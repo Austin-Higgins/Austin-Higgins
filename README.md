@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 👀 I’m interested in DevOps, DevSecOps, GitOps.
-- 🌱 I’m currently learning to implement Infrastructure as Code. 
-- 💞️ I’m looking to collaborate on projects related to Infrastructure Automation.
-- 📫 How to reach me github@austin-higgins.com or @AustinHiggs on twitter.
+- 👀 I’m interested in DevOps, DevSecOps, and Cybersecurity.
+- 🌱 I’m currently learning Go & PenTesting.
+- 💞️ I’m looking to collaborate on projects related to Cybersecurity.
+- 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
 
 <!---
 Austin-Higgins/Austin-Higgins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
