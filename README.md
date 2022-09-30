@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 👀 I’m interested in Collaborating with other Developers.
+- 👀 I’m interested in Cyber Security and Cloud Architecture.
 - 🌱 I’m currently learning Go.
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
 
