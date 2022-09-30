@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 👀 I’m interested in DevOps, DevSecOps, and Cybersecurity.
-- 🌱 I’m currently learning Go & PenTesting.
-- 💞️ I’m looking to collaborate on projects related to Cybersecurity.
+- 👀 I’m interested in Collaborating with other Devlopers.
+- 🌱 I’m currently learning Go.
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
 
 <!---
