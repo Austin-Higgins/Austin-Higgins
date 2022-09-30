@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 👀 I’m interested in Collaborating with other Devlopers.
+- 👀 I’m interested in Collaborating with other Developers.
 - 🌱 I’m currently learning Go.
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
 
