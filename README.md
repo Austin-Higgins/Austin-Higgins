@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Go, Rust.
 - 💼 I’m working as a Systems Engineer at UPMC.
+- 
 - 📚 I graduate 11/21/22 with a bachelor's in Computer Science.
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
 
