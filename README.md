@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Austin-Higgins
-- 🏗️ I design and build infrastructure.
-- 🌱 I’m currently learning Go and Rust.
+- 👋 Hi, I’m @Austin-Higgin
+- 🌱 I’m currently learning Go and Rust
 - 📚 Class of 2022 - BS in Computer Science
-- 🤖 I love developing and designing automation.
-- 🧠 Experience with (React, Powershell, Bash, PostgreSQL, and MongoDB).
+- 💼 I design, build, and support infrastructure and automation
+- 🧠 Experience with (React, Powershell, Bash, PostgreSQL, and MongoDB)
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
