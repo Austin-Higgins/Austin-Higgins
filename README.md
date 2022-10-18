@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning Go and Rust
 - 📚 Class of 2022 - BS in Computer Science
 - 💼 I design, build, and support infrastructure and automation
-- 🧠 Experience with (React, Powershell, Bash, PostgreSQL, and MongoDB)
+- 🧠 Experience with (Python, React, Powershell, Bash, PostgreSQL, and MongoDB)
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
