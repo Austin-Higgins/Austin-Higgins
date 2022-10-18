@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 🌱 I’m currently learning Go, Rust.
-- 💼 I’m working as a Systems Engineer at UPMC.
-- 
-- 📚 I graduate 11/21/22 with a bachelor's in Computer Science.
+- 🏗️ I design and build infrastructure.
+- 🌱 I’m currently learning Go and Rust.
+- 📚 Class of 2022 - BS in Computer Science
+- 🤖 I love developing and designing automation.
+- 🧠 Experience with (React, Powershell, Bash, PostgreSQL, and MongoDB).
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
-
-<!---
-Austin-Higgins/Austin-Higgins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
