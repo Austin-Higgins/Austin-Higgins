@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 🌱 I’m working with Go and Rust
+- 🌱 I’m making some open source projects with Go, Python, and Rust
 - 📚 BS in Computer Science
 - 💼 I design, build, and support infrastructure and automation
 - 🧠 Experience with (Python, Go, Rust, PostgreSQL, and MongoDB)
