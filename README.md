@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Austin-Higgins
-- 🌱 I’m making some open source projects with Go, Python, and Rust
+- 🌱 Enjoying Development in my Free Time!
 - 📚 BS in Computer Science
 - 💼 I design, build, and support infrastructure and automation
-- 🧠 Experience with (Python, Go, Rust, PostgreSQL, and MongoDB)
+- 🧠 Experience with (Azure, AWS, GCP, Docker, Kubernetes, Python, Go, and PostgreSQL)
 - 📫 You can reach me via linkedin at https://www.linkedin.com/in/austin-higgins/
